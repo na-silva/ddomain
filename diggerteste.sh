@@ -3,7 +3,7 @@
 
 domain=${1}
 #whois=$(/usr/bin/whois)     
-#DIGGER BRABO
+#DIGGER NAO TAO BRABO
 
 echo -e "DOMINIO $domain\n"  
 echo -e "TIPO A"
